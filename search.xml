@@ -5,6 +5,13 @@
   
     
     <entry>
+      <title><![CDATA[about me]]></title>
+      <url>https://codoge.github.io/about/index.html</url>
+      <content type="html"><![CDATA[<p>只想做一个无拘无束的coder</p>
+]]></content>
+    </entry>
+    
+    <entry>
       <title><![CDATA[categories]]></title>
       <url>https://codoge.github.io/categories/index.html</url>
       <content type="html"></content>
